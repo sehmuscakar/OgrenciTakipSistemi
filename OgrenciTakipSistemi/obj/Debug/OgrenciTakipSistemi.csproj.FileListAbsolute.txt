@@ -1,0 +1,15 @@
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\bin\Debug\OgrenciTakipSistemi.exe.config
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\bin\Debug\OgrenciTakipSistemi.exe
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\bin\Debug\OgrenciTakipSistemi.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.frmanaform.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.OgrenciForm.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.exe
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.EgitimKocuForm.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.EgitmenBranş.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.Target.resources
